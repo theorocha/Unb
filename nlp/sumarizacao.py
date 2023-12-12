@@ -13,7 +13,6 @@ def sumarizar(textoGrande, max_length=150):
 
     return summary
 
-# Exemplo de uso
 textoGrande = """
     The use of artificial intelligence (AI) has grown rapidly across various industries in recent years. Companies are adopting AI-based solutions to optimize processes, make more informed decisions, and drive innovation. In the healthcare sector, AI is being used to diagnose diseases, personalize treatments, and improve operational efficiency.
 Furthermore, AI has played a crucial role in technological advancements such as autonomous vehicles, speech recognition, automatic translation, and virtual assistants. However, the rapid advancement of AI also raises ethical concerns, including issues related to privacy, algorithmic bias, and the impact on employment.
